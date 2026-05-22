@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi there, I'm Safiullah HOssain Mollick 👋
+# Hi there, I'm Safiullah Hossain Mollick 👋
 
 I am a **Backend Developer** specializing in **Python and Django**. 
 
