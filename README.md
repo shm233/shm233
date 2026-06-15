@@ -3,7 +3,7 @@
 
 I am a **Backend Developer** specializing in **Python and Django**. 
 
-With a BBA degree from the University of Dhaka, I bridge the gap between business logic and technical execution. I love solving logical problems, designing database schemas, and building the invisible gears that power web applications.
+With a BBA degree from the University of Dhaka, I bridge the gap between business logic and technical execution, focusing primarily on financial calculations in the backend operation. I excel in solving logical problems, designing database schemas, and building the invisible gears that power web applications.
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** Python, SQL (PostgreSQL/SQLite)
