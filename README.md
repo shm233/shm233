@@ -9,7 +9,7 @@ With a BBA degree from the University of Dhaka, I bridge the gap between busines
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** Python, Javascript, Typescript
-* **Databases:** MySQL, PostGreSQL, SQLite3, Mongoose
+* **Databases:** MySQL, PostGreSQL, SQLite3, MongoDB
 * **Frameworks:** Django, Django REST Framework
 * **Tools & Workflow:** Git, GitHub, Postman, Environment Management
 
